@@ -1,4 +1,10 @@
-# O que é Programação Orientada a Objetos?
+<p align="center">
+    <img width="300" src=".imagens/banner.jpg">
+</p>
+
+# POO para Iniciantes: Como Programar como um Mestre Lego 
+
+## O que é Programação Orientada a Objetos?
 
 É como brincar com Lego! 🧱
 Você cria “peças” chamadas objetos.
@@ -51,3 +57,5 @@ POO ajuda a criar sistemas mais organizados e flexíveis! 🚀
 `Muito obrigado por explorar o nosso artigo sobre Programação Orientada a Objetos! Esperamos que você tenha se divertido aprendendo como programar como um verdadeiro mestre Lego. Agora, é hora de colocar as mãos no código e criar suas próprias criações incríveis! Se tiver alguma dúvida ou quiser compartilhar suas experiências, deixe um comentário abaixo. Vamos construir juntos!😊`
 
 Ilustrações e conteúdo gerados pela IA Copilot com a revisão humana.
+
+[def]: 

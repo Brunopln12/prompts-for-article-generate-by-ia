@@ -30,7 +30,6 @@ Copilot：
 
 - poderia criar uma capa estilo banner para o titulo POO para Iniciantes: Como Programar como um Mestre Lego
 
-• Angular
 
 
 
